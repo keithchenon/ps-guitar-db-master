@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2ce4be1-5126-4bd5-8c0d-f70e958b974a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Sx398EFkM3G1aRHoQWzbOpAdlJ" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ManufacturerPersistenceTests">
+    <configuration name="LocationPersistenceTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ps-guitar-db" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.guitar.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.guitar.db" />
+      <option name="MAIN_CLASS_NAME" value="com.guitar.db.LocationPersistenceTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManufacturerPersistenceTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ps-guitar-db" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.guitar.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.guitar.db" />
+      <option name="MAIN_CLASS_NAME" value="com.guitar.db.ManufacturerPersistenceTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.guitar.db in ps-guitar-db" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ps-guitar-db" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.guitar.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.guitar.db" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ManufacturerPersistenceTests" />
+        <item itemvalue="JUnit.LocationPersistenceTests" />
+        <item itemvalue="JUnit.com.guitar.db in ps-guitar-db" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2ce4be1-5126-4bd5-8c0d-f70e958b974a" name="Default Changelist" comment="" />
+      <created>1572491265018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572491265018</updated>
+      <workItem from="1572491266475" duration="21520000" />
+      <workItem from="1575333262163" duration="468000" />
+      <workItem from="1578770503718" duration="463000" />
+      <workItem from="1592074826438" duration="6000" />
+      <workItem from="1593125857766" duration="345000" />
+      <workItem from="1606786943491" duration="4376000" />
+      <workItem from="1613051599616" duration="522000" />
+      <workItem from="1613513361044" duration="269000" />
+      <workItem from="1613574325924" duration="355000" />
+      <workItem from="1613577672430" duration="194000" />
+      <workItem from="1613578539568" duration="512000" />
+      <workItem from="1619787874786" duration="1013000" />
+      <workItem from="1619805578600" duration="667000" />
+      <workItem from="1620219427979" duration="1940000" />
+      <workItem from="1620230397659" duration="598000" />
+      <workItem from="1620246108550" duration="239000" />
+      <workItem from="1621385443307" duration="2706000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
